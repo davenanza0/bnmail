@@ -1,0 +1,21 @@
+{
+  "name": "BN Lab — Painel de gestão de email",
+  "short_name": "BN Lab",
+  "description": "Gestão das suas contas de correio electrónico.",
+  "lang": "pt-MZ",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbf7f2",
+  "theme_color": "#f2742b",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
